@@ -1,5 +1,7 @@
 # `@tagoro9/promise-utils`
 
+This module is deprecated. Use tools like https://github.com/sindresorhus/p-series instead.
+
 Set of utility functions to use when working with promises
 
 ## Installation
